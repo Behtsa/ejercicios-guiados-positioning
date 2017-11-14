@@ -1,0 +1,34 @@
+body {
+	margin: 0 auto;
+}
+
+
+ul {
+	margin-top: 0px;
+	padding-top: 10px;
+
+}
+
+li {
+	height: 150px;
+	display: inline-block;
+	list-style: none;
+	padding: 10px 30px;
+	transition: all 0.52s linear;
+	-webkit- transition: all 0.5s linear;
+	width: 150px;
+	border: 1px solid black;
+}
+
+
+li:hover {
+	color: #BBC9E0;
+}
+
+li i {
+	text-align: center;
+}
+
+nav ul li h4 {
+	font-family: 'Montserrat', sans-serif;
+}
